@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://drive.google.com/file/d/1m5NZe1k6_lo-b1gRzHF0e7Un8EipXk2a/view?usp=drive_link"  width="200">
+    <img src="https://cdn.abundancebrasil.com.br/localimages/ABHP%20Gradient%20and%20Black@2x-1.png"  width="200">
 </div>
 
 
